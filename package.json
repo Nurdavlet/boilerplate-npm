@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate-npm-1",
+  "version": "1.0.0",
+  "description": "A boilerplate for the freeCodeCamp curriculum.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "sequelize": "^6.21.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nurdavlet/boilerplate-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nurdavlet/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/Nurdavlet/boilerplate-npm#readme"
+}
